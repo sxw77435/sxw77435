@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!--타이틀 부분-->
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=안녕하세요%20백엔드%20개발자%20송흔위입니다%20🙋‍♀️&fontSize=30" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=안녕하세요%20개발자%20송흔위입니다%20🙋‍♀️&fontSize=30" />
 
 </div>
 
