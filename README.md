@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
- <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=20232a"/></a>&nbsp
    <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=black" />&nbsp
  <img src="https://img.shields.io/badge/Flask-F3F3F3.svg?style=for-the-badge&logo=flask&logoColor=000000" />&nbsp
